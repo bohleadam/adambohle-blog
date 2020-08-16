@@ -63,7 +63,7 @@ For those who are not familiar with Azure Migrate, this is a solution available 
 
 1. Standardize the inputs
 2. Remove the human error
-3. no bias, let the calculation engine do its thing.
+3. No bias, let the calculation engine do its thing.
 
 I won't go into the detail around how Azure Migrate works, or how to set this up, you can find that detail by going to the [Azure Migrate Documentation](https://docs.microsoft.com/en-gb/azure/migrate/) and you can find a lot of detail here around the process for [Azure VMware Solution Assessments](https://docs.microsoft.com/en-gb/azure/migrate/concepts-assessment-calculation).
 
@@ -77,4 +77,12 @@ Once the collector is up and running you will see the discovered virtual machine
 
 There are other capabilities here around dependency mapping which is useful, and certainly worth considering when you are looking at Migrations, you don't want to leave part of an application behind during a migration and then find you have just introduced higher latency into your application :smile:
 
-Now that we have all this detail we can very easily create an assessment. An Assessment in Azure Migrate traditionally looks to take workloads and suggest, based on performance or allocated values, what would be the best native Azure instance type fit 
+Now that we have all this detail we can very easily create an assessment to move those workloads directly to Azure VMware Solution
+
+{{< figure src="https://bohleadam-blog-assets.s3.eu-west-2.amazonaws.com/Xnip2020-08-16_19-34-20.jpg" title="AVS sizing Assessment" >}}
+
+As you can see you can see pricing detail, I have removed this until official pricing is available at General Availability, and you can see the host count you require.
+
+But one thing that is most notable is the Readiness. All of these workloads are ready for Azure, no checking if OS's are supported, no checking if instance availability is going to be an issue. You can simply move the workload to Azure with no changes.
+
+You can essentially, Hit the easy button on moving workloads to Azure VMware Solution.

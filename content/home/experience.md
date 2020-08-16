@@ -50,8 +50,8 @@ date_format = "Jan 2006"
   company = "Microsoft"
   company_url = "https://www.microsoft.com/"
   location = "Reading, UK"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2016-09-01"
+  date_end = "2017-12-31"
   description = """"""
 
 [[experience]]
@@ -59,8 +59,8 @@ date_format = "Jan 2006"
   company = "VMware"
   company_url = "https://www.vmware.com/"
   location = "London, UK"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2012-06-01"
+  date_end = "2016-08-31"
   description = """"""
 
 [[experience]]
