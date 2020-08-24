@@ -7,7 +7,7 @@ summary: "The below article talks about the benefits of accurately sizing for VM
 authors: []
 tags: [AVS, Azure, Sizing]
 categories: [Azure VMware Solution, Sizing]
-date: 2020-08-12T22:08:43+01:00
+date: 2020-08-18T22:08:43+01:00
 lastmod: 2020-08-12T22:08:43+01:00
 featured: false
 draft: false
