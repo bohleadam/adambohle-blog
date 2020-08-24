@@ -6,7 +6,7 @@ subtitle: "Sizing... I LOVE sizing. Clearly I'm joking, I hate sizing"
 summary: "The below article talks about the benefits of accurately sizing for VMware SDDC environments in hyper scale cloud providers, and how Microsoft are working to make this easier"
 authors: []
 tags: [AVS, Azure, Sizing]
-categories: []
+categories: [Azure VMware Solution, Sizing]
 date: 2020-08-12T22:08:43+01:00
 lastmod: 2020-08-12T22:08:43+01:00
 featured: false
