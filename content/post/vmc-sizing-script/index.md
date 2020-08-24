@@ -6,7 +6,7 @@ subtitle: "I promise, I am not going to post only about sizing, see what I did t
 summary: "In this article I will show you a little PowerShell script that I have been working on, which will hopefully make VMC on AWS Sizing a little less tedious"
 authors: []
 tags: [VMware Cloud on AWS, VMC, AWS, Sizing]
-categories: [VMware Cloud on AWS]
+categories: [VMware Cloud on AWS, Sizing]
 date: 2020-08-21T21:30:46+01:00
 lastmod: 2020-08-21T21:30:46+01:00
 featured: false
