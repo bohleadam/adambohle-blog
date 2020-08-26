@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Avs Hcx Setup"
+title: "Azure VMware Solution HCX Setup Instructions"
 subtitle: ""
 summary: ""
 authors: []

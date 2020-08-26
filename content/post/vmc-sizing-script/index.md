@@ -121,7 +121,7 @@ If you are looking to size for the i3.metal node type then you will need to spec
     "instanceType": "i3",
 ```
 
-Just to clarify the instanceTyoe changes, as does the profileModeCode to "FDS"
+Just to clarify the instanceType changes, as does the profileModeCode to "FDS"
 
 All the other options can be adjusted and tweaked, the options are pretty clear and fall in line with the options which you would choose if you were to go through the process manually within the [VMC Sizer UI](https://vmc.vmware.com/sizer/workload-profiles).
 
