@@ -71,4 +71,11 @@ Lets take a look at the below high level overview which shows what we are puttin
 
 I appreciate this is a high level "Marketing Style" depiction. Myself and the team will produce more detailed overviews as we develop this lab environment out.
 
+You can expect more detailed content in the following areas
+
+1. Networking overviews and how we connected all of these different public cloud providers.
+2. Automation used to stand-up each of these SDDC environments.
+3. How we can enable application mobility across between public clouds running VMware Cloud Foundation.
+4. Build, Run, Manage, Connect and Protect all of your traditional and modern architecture applications across any cloud.
+
 So stay tuned, we will be producing more content on this topic in the future. If you have anything you would like to see in this lab, any use cases you think we should explore, please leave a comment below.
