@@ -17,8 +17,8 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: "center"
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -66,7 +66,7 @@ So what are we actually building.
 
 Lets take a look at the below high level overview which shows what we are putting together here;
 
-![Multi-cloud-hld](https://bohleadam-blog-assets.s3.eu-west-2.amazonaws.com/multi-cloud-high-level-01.jpg)
+{{< figure src="https://bohleadam-blog-assets.s3.eu-west-2.amazonaws.com/multi-cloud-high-level-01.jpg"title="multi-cloud-hld" >}}
 *Slide credit to - John Marrone, VMware*
 
 I appreciate this is a high level "Marketing Style" depiction. Myself and the team will produce more detailed overviews as we develop this lab environment out.
