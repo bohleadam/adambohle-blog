@@ -23,7 +23,7 @@ bio:
 interests:
 - Cloud Technologies
 - Cycling
-- Spaniels
+- Running
 
 education:
   courses:
